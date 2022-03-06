@@ -16,4 +16,6 @@ public class QuotientReminder {
 
 	}
 
-//number by which a dividend is divided
+//divisor=number by which a dividend is divided
+//quotient=divident / divisor
+//reminder=divident % divisor
