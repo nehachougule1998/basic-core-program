@@ -17,6 +17,6 @@ public class EvenandOdd {
 
             System.out.println(num + " is odd");
         }
-    }
-    
-}
+	
+	}	
+  }
