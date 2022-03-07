@@ -32,7 +32,7 @@ public class Flip_coin {
           int Tail = (Tails * 100)/toss;
         System.out.println("Percentage Head : " +Head);
         System.out.println("Percentage Tail : " +Tail);
-    }
+	}
 }
 
 
